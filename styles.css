@@ -1,0 +1,49 @@
+body {
+    margin: 0;
+    background-color: gainsboro;
+  }
+  
+  .navegacion {
+    background-color: white;
+  }
+  h1 {
+    text-align: center;
+    margin: 0;
+    padding: 15px;
+  }
+  
+  .titulo {
+    padding: 15px;
+    margin: 0;
+  }
+  
+  .titulo .fecha {
+    float: right;
+    margin: 0;
+  }
+  
+  .titulo h2 {
+    margin: 0;
+    display: inline;
+  }
+  
+  .publicacion {
+    background-color: white;
+    width: 600px;
+    margin: auto;
+    margin-bottom: 60px;
+    margin-top: 60px;
+    border: 2px solid #edeeee;
+    border-radius: 5px;
+  }
+  
+  img {
+    width: 100%;
+  }
+  div.piefoto {
+    padding: 15px;
+  }
+  div.piefoto p {
+    margin: 0;
+  }
+  
